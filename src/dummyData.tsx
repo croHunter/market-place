@@ -140,7 +140,7 @@ export const reviewData: ReviewData[] = [
 export const data: FoodType[] = [
   {
     id: 1,
-    foodType: 'Special Food',
+    foodType: 'Rental Home',
     foods: [
       {
         f_id: 1,
@@ -233,7 +233,7 @@ export const data: FoodType[] = [
   },
   {
     id: 2,
-    foodType: 'Mexican',
+    foodType: 'Electronic Appliances',
     foods: [
       {
         f_id: 1,
@@ -327,7 +327,7 @@ export const data: FoodType[] = [
   },
   {
     id: 3,
-    foodType: 'Indian',
+    foodType: 'Clothing & Wearables',
     foods: [
       {
         f_id: 1,
@@ -421,7 +421,7 @@ export const data: FoodType[] = [
   },
   {
     id: 4,
-    foodType: 'Japanese',
+    foodType: 'Photography/Videography',
     foods: [
       {
         f_id: 1,
@@ -515,7 +515,7 @@ export const data: FoodType[] = [
   },
   {
     id: 5,
-    foodType: 'Drinks',
+    foodType: 'Beauty and Saloon',
     foods: [
       {
         f_id: 1,
@@ -609,7 +609,7 @@ export const data: FoodType[] = [
   },
   {
     id: 6,
-    foodType: 'Lunch',
+    foodType: 'Home Appliances',
     foods: [
       {
         f_id: 1,
