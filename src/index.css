@@ -1,0 +1,23 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+html {
+  font-size: 62.5%; /* 16px x 62.5 = 10px = 1rem */
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+  background: linear-gradient(113.49deg, #984d38 -30.3%, #181e41 58.12%);
+  font-family: 'Poppins' sans-serif;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
